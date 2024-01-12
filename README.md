@@ -1,3 +1,5 @@
+![logo](https://github.com/SHanu1200/SHanu1200/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Saurav Thakur</h1>
 <h3 align="center">Crafting Precision in Code: Navigating the Embedded Realm</h3>
 
