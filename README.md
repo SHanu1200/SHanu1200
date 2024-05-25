@@ -1,5 +1,5 @@
 
-![logo](https://github.com/SHanu1200/SHanu1200/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/SHanu1200/SHanu1200/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurav+Thakur!;" />
 </h1>
